@@ -1,1 +1,1 @@
-web: gunicorn --bind 0.0.0.0:8000 'RestaurantProject.wsgi'
+web: gunicorn --bind 0.0.0.0:8000 'RestorationProject.wsgi'
